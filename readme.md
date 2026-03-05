@@ -125,8 +125,6 @@ bugatti-chiron-scrollbar/
 
 - [ ] Multiple car models (Ferrari, Lamborghini, McLaren)
 - [ ] Car color customizer
-- [ ] Engine sound on scroll
-- [ ] Turbo boost animation on gear 5
 - [ ] Chrome Web Store release
 
 ---
